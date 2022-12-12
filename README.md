@@ -1,4 +1,4 @@
-## Table of contents
+## Índice
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -15,13 +15,18 @@
 
 ## Overview
 
-### The challenge
+### O desafio
+
+Criar um card component!
 
 O maior desafio desta proposta é mudar o estilo da imagem quando o usuário interage com ela. É preciso que a imagem receba uma camada ciano e apareça o ícone de visualização centralizada sobre o element.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/87048670/206940264-54efbffb-6a11-4df7-95b4-e173c6446c38.png)
+
+![image](https://user-images.githubusercontent.com/87048670/206940245-660c25da-bf31-4054-ac95-416fe7e4ba0c.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
